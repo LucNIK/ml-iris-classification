@@ -18,7 +18,7 @@ X = iris.data
 y = iris.target.reshape(-1, 1)
 
 # One-hot encode target
-encoder = OneHotEncoder(sparse=False)
+encoder = OneHotEncoder(sparse_output=False)
 y_encoded = encoder.fit_transform(y)
 
 # Split dataset

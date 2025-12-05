@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# TensorFlow/Keras
+*.h5
+*.keras
+
+# OS files
+.DS_Store
+Thumbs.db
