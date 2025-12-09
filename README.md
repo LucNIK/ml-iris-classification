@@ -30,17 +30,7 @@ The trained model achieves high accuracy on unseen test data and can be easily d
 ---
 
 ## Project Structure
-ml-iris-classification/
-├── models/ # Trained models (tracked via Git LFS)
-│ └── iris_model.h5
-├── scripts/ # Python scripts for training and testing
-│ └── train_model.py
-├── app/ # Optional: Streamlit or Flask apps for deployment
-├── requirements.txt # Python dependencies
-├── .gitignore
-├── README.md
-└── .gitattributes # Git LFS configuration
-
+<img width="293" height="114" alt="image" src="https://github.com/user-attachments/assets/49b552c5-1493-4fd3-9ff0-f9b530669925" />
 
 ---
 
